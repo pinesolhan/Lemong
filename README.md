@@ -52,7 +52,7 @@ width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
 |팀원|역할|
 |----|--------|
 |팀원 1|  Login : kakao/naver api 로그인, 회원가입  
-|팀원 2|  Mypage : 닉네임/비밀번호/자기소개/프로필 사진 수정, 계정 검색, 팔로잉&팔로우 <br> Challenge : 챌린지 채팅  
+|팀원 2|  Mypage : 프로필 수정, 팔로잉&팔로우, 계정 검색<br> Challenge : 챌린지 채팅  
 |팀원 3|  Todolist : todo 작성/수정/삭제/내일로미루기/Drag&Drop, <br> Callendar : todo 연동, todo 마크 표시
 |팀원 4|  Feed : 게시글 작성/수정/삭제/첨부이미지Drag&Drop, 댓글, 댓글&좋아요 알림  
 |팀원 5|  Challenge : 챌린지 모집, 챌린지 랭킹 <br>Template : 날짜 선택 후 todo일괄 작성
@@ -79,18 +79,57 @@ width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
 </ul>
 
 ## 화면구성
-로그인/회원가입
+<h3 align="center">Login/Join</h3>
+<div>
+  Login <br> 
+  <img src="https://user-images.githubusercontent.com/116356227/223668051-883779d8-0006-4b99-8383-6c3a62ea095d.png" width="80%" height="80%"><br>
+  Join  <br>
+  <img src="https://user-images.githubusercontent.com/116356227/223668141-103b3b8b-7481-497e-a008-3cc05d8747b4.png" width="80%" height="80%">
+</div>
+<hr>
 
+<h3 align="center">Mypage</h3>
+<div>
+  Profile change<br>
+  <img src="https://user-images.githubusercontent.com/116356227/223668428-e04f02b3-6b3d-4994-ad51-94b98bca9cca.png" width="80%" height="80%"> <br>
+  Sidebar<br>
+  <img src="https://user-images.githubusercontent.com/116356227/223669051-a68101d4-a0d4-4cdc-b3ab-85b44e42d33b.png" width="80%" height="80%">
+</div>
+<hr>
 
-Mypage
+<h3 align="center">Todo</h3>
+<div>
+  <img src="https://user-images.githubusercontent.com/116356227/223668315-a55fcde6-67a6-44f8-abfd-d4e60ee2b702.png" width="80%" height="80%">
+</div>
+<hr>
 
-todo
+<h3 align="center">Feed</h3>
+<div>
+  Feed List<br>
+  <img src="https://user-images.githubusercontent.com/116356227/223668562-6536030b-273e-462c-9401-3d19e1ff3e56.png" width="80%" height="80%"><br>
+  Feed Detail<br>
+  <img src="https://user-images.githubusercontent.com/116356227/223668584-27b6b132-b7a2-4666-b2f6-6cc1c86d8974.png" width="80%" height="80%">
+</div>
+<hr>
 
-Feed
+<h3 align="center">Challenge</h3>
+<div>
+  Challenge List<br>
+  <img src="https://user-images.githubusercontent.com/116356227/223668767-9fadaf7c-1ba7-4d9d-826b-3e3df2c7351f.png" width="80%" height="80%"><br>
+  Challenge Detail(join.ver)<br>
+  <img src="https://user-images.githubusercontent.com/116356227/223668797-6f6f4f56-3e9f-4294-a384-4c71a7f04635.png" width="80%" height="80%">
+</div>
+<hr>
 
-Challenge
-
-Template
+<h3 align="center">Template</h3>
+<div>
+  Template Write<br>
+  <img src="https://user-images.githubusercontent.com/116356227/223669009-418f791f-ac31-4fd0-922f-bf3e2899fc51.jpg" width="80%" height="80%"><br><br>
+  <img src="https://user-images.githubusercontent.com/116356227/223669178-2f225238-ecde-4035-8e98-b1c180f3458b.png"
+  width="50%" height="50%"><img src="https://user-images.githubusercontent.com/116356227/223669215-aee658db-2b45-40e0-b33c-1e27c590d633.png"
+  width="50%" height="50%">
+</div>
+<hr>
 
 
 
