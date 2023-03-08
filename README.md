@@ -3,7 +3,7 @@
   <h4>함께 공부하는 소셜 기반 todolist 웹 사이트!</h4>
   <h6> 팀 연필뽀개기 </h6> 
  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> ([Front](https://github.com/woongwhee/lemongproject-front) [Back](https://github.com/woongwhee/LemongProject-BackEnd))
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> ([Front](https://github.com/woongwhee/lemongproject-front)/[Back](https://github.com/woongwhee/LemongProject-BackEnd))
 </div> 
 
 ## 프로젝트 소개
