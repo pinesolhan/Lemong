@@ -27,7 +27,8 @@
 <div align="center">
        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" /> 
        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" /> 
-       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> 
+       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>
 
 ## 팀원/역할분배
@@ -37,4 +38,9 @@
 팀원 4  Feed : 게시글 작성/수정/삭제/첨부이미지Drag&Drop, 댓글, 댓글&좋아요 알림  
 팀원 5  Challenge : 챌린지 모집, 챌린지 랭킹  
         Template : 날짜 선택 후 todo일괄 작성
+        
+## 프로젝트 
+       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+
 
