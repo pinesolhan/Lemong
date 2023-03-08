@@ -3,7 +3,7 @@
   <h4>함께 공부하는 소셜 기반 todolist 웹 사이트!</h4>
   <h6> 팀 연필뽀개기 </h6> 
  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> Front Back
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div> 
 
