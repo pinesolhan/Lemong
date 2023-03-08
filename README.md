@@ -59,18 +59,17 @@ width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
 </ul>
 <h4>Feed게시판을 통해 사진으로 소통하자!</h4>
 <ul>
-  <li>팔로우한 친구 게시글에 :hearts:와 :speech_balloon: 남기기</li>
-  <li>내 게시물의 :hearts:와 :speech_balloon:의 알림도 받을 수 있어요</li>
+  <li>팔로우한 친구 게시글에 :hearts:와 :speech_balloon: </li>
+  <li>내 게시물의 :hearts:와 :speech_balloon:이 변동시 알림</li>
 </ul>
 <h4>함께 같은 목표를 위해 Challenge에 도전!</h4>
 <ul>
-  <li></li>
-  <li></li>
+  <li>같은 challenge를 하는 사람들과 채팅으로 소통</li>
+  <li>challenge를 하는 사람들의 todo완료 랭킹 </li>
 </ul>
 <h4>반복되는 todo는 Template에서 한 번에!</h4>
 <ul>
-  <li></li>
-  <li></li>
+  <li>달력으로 날짜를 선택해 한 번에 todo작성 가능</li>
 </ul>
 
 ## 화면구성
