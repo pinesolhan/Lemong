@@ -42,6 +42,12 @@ width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>
 
+## usecase다이어그램
+<img src="https://user-images.githubusercontent.com/116356227/223666273-ecf160d4-1466-4c5e-b079-75e52b00f826.png">
+
+## database설계
+<img src="https://user-images.githubusercontent.com/116356227/223666422-fdb7c1e4-c056-4335-9394-9dc95f15c502.png">
+
 ## 팀원/역할분배
 |팀원|역할|
 |----|--------|
@@ -72,13 +78,19 @@ width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
   <li>달력으로 날짜를 선택해 한 번에 todo작성 가능</li>
 </ul>
 
-## usecase다이어그램
-<img src="https://user-images.githubusercontent.com/116356227/223666273-ecf160d4-1466-4c5e-b079-75e52b00f826.png">
-
-## database설계
-<img src="https://user-images.githubusercontent.com/116356227/223666422-fdb7c1e4-c056-4335-9394-9dc95f15c502.png">
-
 ## 화면구성
+로그인/회원가입
+
+
+Mypage
+
+todo
+
+Feed
+
+Challenge
+
+Template
 
 
 
