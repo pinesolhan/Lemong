@@ -31,11 +31,10 @@
 </div>
 
 ## 팀원/역할분배
-팀원 1  Login : kakao/naver api 로그인,회원가입,회원탈퇴  
-팀원 2  Mypage : 닉네임/비밀번호/자기소개/프로필 사진 수정, 팔로잉&팔로우  
-팀원 3  Todolist : todo 작성/수정/삭제/내일로미루기/Drag&Drop, 달력 todo마크  
-팀원 4  Feed : 게시글 작성/수정/삭제/첨부이미지Drag&Drop,댓글&좋아요 알림,댓글  
-팀원 5  Challenge : 챌린지 모집/챌린지 순위/ 채팅  
-       Template : 날짜 선택 후 todo일괄 작성,작성한 템플릿 챌린지로 보내서 적용
+팀원 1  Login : kakao/naver api 로그인, 회원가입  
+팀원 2  Mypage : 닉네임/비밀번호/자기소개/프로필 사진 수정, 계정 검색, 팔로잉&팔로우, 챌린지 채팅  
+팀원 3  Todolist : todo 작성/수정/삭제/내일로미루기/Drag&Drop, 달력 todolist 연동  
+팀원 4  Feed : 게시글 작성/수정/삭제/첨부이미지Drag&Drop, 댓글, 댓글&좋아요 알림  
+팀원 5  Challenge : 챌린지 모집, 챌린지 랭킹  
+        Template : 날짜 선택 후 todo일괄 작성
 
-## 주요기능
