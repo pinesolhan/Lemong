@@ -72,6 +72,10 @@ width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
   <li>달력으로 날짜를 선택해 한 번에 todo작성 가능</li>
 </ul>
 
+## usecase다이어그램
+
+## database 
+
 ## 화면구성
 
 
