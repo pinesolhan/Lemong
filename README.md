@@ -43,7 +43,7 @@ width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
 </div>
 
 ## usecase다이어그램
-<img src="https://user-images.githubusercontent.com/116356227/223666273-ecf160d4-1466-4c5e-b079-75e52b00f826.png">
+<img src="https://user-images.githubusercontent.com/116356227/223666273-ecf160d4-1466-4c5e-b079-75e52b00f826.png" width="70%" height="70%">
 
 ## database설계
 <img src="https://user-images.githubusercontent.com/116356227/223666422-fdb7c1e4-c056-4335-9394-9dc95f15c502.png">
