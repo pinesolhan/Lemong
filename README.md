@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div> 
 
-
 ## 프로젝트 소개
 개인이 가지고 있는 목표는 있지만 제대로 실행하기 어려운 경우 多  
 목표 설정 후 계획을 실행하더라도 자극이 없어 나태해지게 될 때  
--> with Lemong  
+-> with <img src="https://user-images.githubusercontent.com/116356227/223655089-f73f4ab9-5338-4ecc-988e-78bb8b7cd8af.png" 
+width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
 1. 포트폴리오, 성취감 등 다양한 목적으로 사용 가능한 todo
 2. 공통된 목표의 사람들과 사진으로 교류하는 Feed
 3. 함께 목표를 도전하고 교류하는 Callenge
@@ -52,6 +52,26 @@
 |팀원 5|  Challenge : 챌린지 모집, 챌린지 랭킹 <br>Template : 날짜 선택 후 todo일괄 작성
         
 ## 주요기능
+<h4>소셜 회원가입으로 손쉽게 로그인도 하자!</h4>
+<ul>
+  <li>kakao</li>
+  <li>naver</li>
+</ul>
+<h4>Feed게시판을 통해 사진으로 소통하자!</h4>
+<ul>
+  <li>팔로우한 친구 게시글에 :hearts:와 :speech_balloon: 남기기</li>
+  <li>내 게시물의 :hearts:와 :speech_balloon:의 알림도 받을 수 있어요</li>
+</ul>
+<h4>함께 같은 목표를 위해 Challenge에 도전!</h4>
+<ul>
+  <li></li>
+  <li></li>
+</ul>
+<h4>반복되는 todo는 Template에서 한 번에!</h4>
+<ul>
+  <li></li>
+  <li></li>
+</ul>
 
 ## 화면구성
 
