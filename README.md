@@ -64,8 +64,8 @@ width="30px" height="30px" style="padding: 10px 0 0 0"> Lemong
 </ul>
 <h4>Feed게시판을 통해 사진으로 소통하자!</h4>
 <ul>
-  <li>팔로우한 친구 게시글에 :hearts:와 :speech_balloon: </li>
-  <li>내 게시물의 :hearts:와 :speech_balloon:이 변동시 알림</li>
+  <li>팔로우한 친구 게시글에 좋아요:hearts:와 댓글:speech_balloon: </li>
+  <li>내 게시물의 좋아요:hearts:와 댓글:speech_balloon:이 변동시 알림</li>
 </ul>
 <h4>함께 같은 목표를 위해 Challenge에 도전!</h4>
 <ul>
